@@ -1,4 +1,4 @@
-#!/home/python/my_repo/course_python/workon/bin/python
+#!/home/python/my_repo/course_python/pyth3/bin/python
 
 import sys
 import getopt

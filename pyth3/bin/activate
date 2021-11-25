@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/python/my_repo/course_python/workon"
+VIRTUAL_ENV="/home/python/my_repo/course_python/pyth3"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

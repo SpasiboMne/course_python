@@ -1,4 +1,4 @@
-#!/home/python/my_repo/course_python/workon/bin/python3.7
+#!/home/python/my_repo/course_python/pyth3/bin/python3.7
 # -*- coding: utf-8 -*-
 import re
 import sys
