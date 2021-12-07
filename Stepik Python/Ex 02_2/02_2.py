@@ -1,3 +1,5 @@
 print("Hello world!")
+print()
 print('Скоро я','буду','программировать на Python!')
+print()
 print('1', '2', '4', '9', '16')
